@@ -1,1 +1,1 @@
-# RBAP (Reactive Bluetooth Audio PLayer)
+# RBAP (Reactive Bluetooth Audio Player)
